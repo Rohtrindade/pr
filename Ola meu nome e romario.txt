@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Funciona msm em kkkkkkkkkkkkkkkkkk
 Romario trindade *** testee
+=======
+Ola eu sou uma nova linha
+>>>>>>> 50ee299ed384caeed4b9d7dc7430ed101fa86ac1
+Fazendo mais um teste
